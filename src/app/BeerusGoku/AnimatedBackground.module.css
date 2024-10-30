@@ -1,0 +1,45 @@
+/* styles/AnimatedBackground.module.css */
+.animatedBackground {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.character {
+  position: absolute;
+  width: 64px; /* Adjust based on your sprite size */
+  height: 64px;
+  background-size: cover;
+}
+
+.goku {
+  background-image: url("/goku-sprite.png");
+  animation: gokuFight 1s steps(10) infinite;
+}
+
+.beerus {
+  background-image: url("/beerus-sprite.png");
+  animation: beerusFight 1s steps(10) infinite;
+}
+
+@keyframes gokuFight {
+  from {
+    background-position: 0;
+  }
+  to {
+    background-position: -640px;
+  } /* Adjust to sprite sheet width */
+}
+
+@keyframes beerusFight {
+  from {
+    background-position: 0;
+  }
+  to {
+    background-position: -640px;
+  }
+}
