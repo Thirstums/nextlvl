@@ -4,7 +4,7 @@ import FightPage from "./components/BeerusGoku/FightPage";
 export default function Home() {
   return (
     <main>
-      <Title></Title>
+      <Title/>
 
       <FightPage />
     </main>
