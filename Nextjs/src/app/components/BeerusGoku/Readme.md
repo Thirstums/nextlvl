@@ -12,15 +12,15 @@ Beerus Sprite Sheet dimensions
 |:--------|:--------:|:--------:|:--------:|
 |Row 3:| 422px |  100px |157px |
 |Row 4:| 584px | 97px | 157px |
-|Row 5:| px| px| px|
-|Row 6:| px| px| px|
-|Row 7:| px| px| px|
-|Row 8:| px| px| px|
-|Row 9:| px| px| px|
-|Row 10:| px| px| px|
-|Row 11:| px| px| px|
-|Row 12:| px| px| px|
-|Row 13:| px| px| px|
+|Row 5:| 708px| 102px| 154px|
+|Row 6:| 866px| 92px| 152px|
+|Row 7:| 1022px| 106px| 96px|
+|Row 8:| 1122px| 91px| 138px|
+|Row 9:| 1264px| 117px| 177px|
+|Row 10:| 1445px| 140px| 140px|
+|Row 11:| 1589px| 142px| 144px|
+|Row 12:| 1737px| 90px| 142px|
+|Row 13:| 1883px| 129px| 155px|
 |Row 14:| px| px| px|
 |Row 15:| px| px| px|
 |Row 16:| px| px| px|
